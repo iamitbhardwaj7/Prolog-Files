@@ -1,0 +1,2 @@
+# Prolog-Files
+AI Assignment
